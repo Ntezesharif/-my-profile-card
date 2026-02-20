@@ -1,0 +1,32 @@
+.MYCARD{
+    text-align: center;
+    margin-top: 50px;
+    box-sizing: 80px;
+    background-color: rgb(168, 207, 180);
+    border-radius: 20px;
+    width: 600px;
+    height: 600px;
+    margin-left: 20%;
+   border-style: dotted;
+   border-color: rgb(20, 110, 47);
+   border-width: 10px;
+
+}
+img{
+    height: 300px;
+    border: 30px;
+    border-color: rgb(126, 43, 43);
+    border-radius: 10PX;
+    margin-top: 20px;
+}
+P{
+    padding: 10px;
+    text-align:center;
+}
+button{
+    color: rgb(0, 0, 0);
+    border-radius: 10PX;
+    height: 40PX;
+    width: 80px
+    }
+
